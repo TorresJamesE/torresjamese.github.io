@@ -5,3 +5,5 @@ title: James E. Torres
 url: "https://torresjamese.github.io"
 disable_disk_cache: true
 exclude: [.jekyll-cache, GemFile, Gemfile.lock]
+plugins:
+  - jemoji
