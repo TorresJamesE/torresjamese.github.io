@@ -7,5 +7,5 @@ pages:
     url: /about.html
   - title: Contact Me
     url: /contact.html
-  # - title: Resume
-  #   url: /resume.html
+  - title: Resume
+    url: /resume.html

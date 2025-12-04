@@ -1,6 +1,6 @@
 Hello! I'm **James E. Torres**, software engineer :wave:
 
-I'm nearing a decade in the field and specialize in and have a passion for solving problems collaboratively. Backend development is my forte, but I also enjoy working on full-stack projects. Whatever the challenge, I'm eager to tackle it head-on :muscle:
+I'm nearing a decade in the field and specialize in and have a passion for solving problems collaboratively. Backend development is my forte (APIs, DBs), but I also enjoy working on full-stack projects. Whatever the challenge, I'm eager to understand and tackle it head-on :muscle:
 
 I enjoy reading :book:, video games, jogging and calisthethics :running:, and exploring new technologies :thinking:
 
