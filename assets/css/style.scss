@@ -1,0 +1,25 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+#navigation {
+  margin-top: 1rem;
+  nav {
+    ul {
+      list-style: none;
+      padding: 0;
+      display: flex;
+      gap: 1rem;
+      li {
+        a {
+          text-decoration: none;
+          color: white;
+          &:hover {
+            text-decoration: underline;
+          }
+        }
+      }
+    }
+  }
+}

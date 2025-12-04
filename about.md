@@ -1,3 +1,7 @@
-# About Me
+Hello! I'm **James E. Torres**, software engineer :wave:
 
-Hello! I'm James E. Torres, software engineer. This website serves as my personal blog where I share insights, tutorials, and projects related to software development, web technologies, and more.
+I'm nearing a decade in the field and specialize in and have a passion for solving problems collaboratively. Backend development is my forte, but I also enjoy working on full-stack projects. Whatever the challenge, I'm eager to tackle it head-on :muscle:
+
+I enjoy reading :book:, video games, jogging and calisthethics :running:, and exploring new technologies :thinking:
+
+Feel free to reach out to me through my [contact page](contact.md) or connect with me on [LinkedIn](https://www.linkedin.com/in/jamesetorres/) :smile:

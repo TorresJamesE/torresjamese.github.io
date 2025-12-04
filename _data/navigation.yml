@@ -1,0 +1,11 @@
+pages_list_title: pages_list_title
+
+pages:
+  - title: Home
+    url: /
+  - title: About Me
+    url: /about.html
+  - title: Contact Me
+    url: /contact.html
+  # - title: Resume
+  #   url: /resume.html
