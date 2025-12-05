@@ -7,3 +7,6 @@ disable_disk_cache: true
 exclude: [.jekyll-cache, GemFile, Gemfile.lock]
 plugins:
   - jemoji
+sass:
+  sass_dir: assets/css
+  style: compressed
